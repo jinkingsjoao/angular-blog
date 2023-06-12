@@ -19,8 +19,19 @@
   height: 300px;
 }
 
+.content__title{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 1000px;
+  text-align: center;
+}
+
 .content__description{
+  width: 550px;
+
   margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .content__description > p{

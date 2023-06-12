@@ -3,3 +3,7 @@ header {
   display: flex;
   justify-content: center;
 }
+
+hr{
+  color: rgb(158, 152, 152);
+}
