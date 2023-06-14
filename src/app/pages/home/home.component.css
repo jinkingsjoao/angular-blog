@@ -10,13 +10,13 @@
   margin-left: 25px;
 }
 
-.container__bottom-articles{
+.articles__bottom{
   margin-top: 70px;
-  margin-left: 80px;
 
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 

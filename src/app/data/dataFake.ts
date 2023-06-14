@@ -2,14 +2,14 @@ export const dataFake = [
   {
     "id": "1",
     "title": "APPLE ANUNCIA ÓCULOS DE REALIDADE AUMENTADA",
-    "description": "Os óculos têm bateria com duração de duas horas e custarão US$ 3.499 (cerca de R$ 17,2 mil na conversão atual) nos EUA, quando chegarem ao mercado, em 2024. Não há preço divulgado para o Brasil. O preço é substancialmente maior do que os óculos de realidade virtual atualmente no mercado. Na semana passada, a Meta anunciou o seu produto, o Quest, com preço de US$ 449 R$ 2,2 mil. . A Apple usou a frase 'realidade aumentada' para descrever o novo dispositivo. A realidade aumentada, também conhecida como realidade mista, sobrepõe objetos virtuais no mundo ao nosso redor — permitindo-nos misturar realidade com o mundo virtual no nosso campo de visão. Os usuários podem acessar aplicativos, assistir a filmes e escrever documentos em um mundo virtual.",
+    "description": "Os óculos têm bateria com duração de duas horas e custarão US$ 3.499 (cerca de R$ 17,2 mil na conversão atual) nos EUA, quando chegarem ao mercado, em 2024. Não há preço divulgado para o Brasil. O preço é substancialmente maior do que os óculos de realidade virtual atualmente no mercado. Na semana passada, a Meta anunciou o seu produto, o Quest, com preço de US$ 449 (R$ 2,2 mil). A Apple usou a frase 'realidade aumentada' para descrever o novo dispositivo. A realidade aumentada, também conhecida como realidade mista, sobrepõe objetos virtuais no mundo ao nosso redor — permitindo-nos misturar realidade com o mundo virtual no nosso campo de visão. Os usuários podem acessar aplicativos, assistir a filmes e escrever documentos em um mundo virtual.",
     "photoCover": "https://t.ctcdn.com.br/aeFrblGI46Q8J55qEoXM3VQLzOY=/1200x675/smart/filters:format(webp)/i749840.png"
   },
   {
     "id": "2",
     "title": "SpaceX contrata garoto prodígio de apenas 14 anos",
     "description": "Kairan Quazi, de 14 anos, vai ser contratado pela SpaceX a partir de julho, após se formar na faculdade de engenharia na Universidade de Santa Clara, no Estado da Califórnia, nos Estados Unidos, neste mês. As informações são do jornal Los Angeles Times. Segundo a publicação, Kairan Quazi vai trabalhar como engenheiro de software na empresa de telecomunicações do bilionário Elon Musk, responsável por construir a Starship. 'Eu acho que meus anos na faculdade foram os mais felizes da minha vida, porque eu tive muita autonomia, realmente, para compartilhar minha jornada', disse Kairan, em entrevista ao jornal. O garoto disse que vai trabalhar na Starlink, equipe de desenvolvimento de internet via satélite da SpaceX, e, com isso, vai poder 'ser parte de algo maior do que ele'.",
-    "photoCover": "https://th.bing.com/th/id/OIF.AQpD0Db3kdjBAhZFJyCmaw?pid=ImgDet&rs=1"
+    "photoCover": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/06/kairan-800x480.jpg"
   },
   {
     "id": "3",
