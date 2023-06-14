@@ -1,0 +1,9 @@
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+hr{
+  color: rgb(158, 152, 152);
+}

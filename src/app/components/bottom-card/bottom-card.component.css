@@ -1,0 +1,26 @@
+.container__bottom-card{
+    width: 1145px;
+    justify-content: center;
+  }
+  
+  .container__bottom-card-content{
+    display: flex;
+    flex-direction: flex;
+  }
+  
+  .bottom-card__photo > img {
+    width: 280px;
+    min-width: 280px;
+    margin-right: 20px;
+  }
+  
+  .bottom-card__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container__bottom-card__separator{
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
